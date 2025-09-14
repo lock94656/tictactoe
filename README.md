@@ -63,10 +63,12 @@ Install Python
 
 
 <!-- USAGE EXAMPLES -->
-##Rules of the game
+## Rules of the game
 
 The goal is to aligne 3 crosses before the bot or the second player. 
+
 For the C++ version, you need to enter one number between 0 and 8 for chosen a cell (starting from the top left corner to the bottom right corner). 
+
 For the Python version, you need to enter one number between 1 and 9 for chosen a cell (starting from the top left corner to the bottom right corner). 
 
 ## Usage
@@ -74,12 +76,14 @@ For the Python version, you need to enter one number between 1 and 9 for chosen 
 For the "one person" version, the bot plays randomly. 
 
 * C++ 
+
 To launch the program, go to the bin directory and type:
  ```sh
    ./main.exe
    ```
 
 * Python
+
 To launch the program, go to the python directory and type:
  ```sh
    python3 Morpion.py
