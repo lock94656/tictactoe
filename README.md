@@ -28,7 +28,7 @@ Install the build-essential package
   sudo apt install build-essential 
   ```
 
-Create 2 repositories in the folder hangman
+Create 2 repositories in the folder tictactoe
   ```sh
   mkdir lib
   mkdir bin
