@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 
-#include "opencv2/opencv.hpp"
+//#include "opencv2/opencv.hpp"
 
 #include "display.h"
 #include "game.h"
