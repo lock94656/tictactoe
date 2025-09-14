@@ -8,10 +8,10 @@
 
 int main()
 {	
-	cv::Mat frame(600,600, CV_8UC3, cv::Scalar(0,0,0));
+	/*cv::Mat frame(600,600, CV_8UC3, cv::Scalar(0,0,0));
 	cv::imshow("Game board", frame);
 	
-	cv::waitKey(0);
+	cv::waitKey(0);*/
 	
 	srand((unsigned) time(NULL));
 	int tab[9] = {0,0,0,0,0,0,0,0,0};
